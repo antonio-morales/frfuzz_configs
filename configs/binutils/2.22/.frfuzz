@@ -1,0 +1,3 @@
+default
+binutils/readelf
+-a @@
